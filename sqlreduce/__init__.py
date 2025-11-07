@@ -952,7 +952,7 @@ RuleStmt:
 TransactionStmt:
     tests:
         - begin
-        - "BEGIN "
+        - BEGIN
 
 VacuumStmt:
     tests:
